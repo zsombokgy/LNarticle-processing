@@ -1,0 +1,283 @@
+﻿
+                                1 of 2 DOCUMENTS
+
+
+
+                                    Le Monde
+
+                              3 janvier 2008 jeudi
+
+Analyse;
+Une année de l'histoire d'Internet
+
+AUTEUR: Bertrand Le Gendre
+
+RUBRIQUE: EDITORIAL - ANALYSES; Pg. 2
+
+LONGUEUR: 1078 words
+
+
+Vie privée, gratuité, nouveaux acteurs, nouveaux services : Internet a accru son
+audience et son influence, tout en suscitant des débats animés, éthiques,
+culturels et économiques. S'il est impossible de revenir sur tous ces
+événements, certains méritent d'être revisités. Ils éclairent d'un jour nouveau
+l'avenir de la planète numérique, en perpétuel mouvement.
+
+La vie privée à l'encan. Rien n'échappe aux géants du Web, qui bombardent les
+internautes de messages publicitaires liés à leur navigation sur la Toile :
+hobbies, films préférés, attirances sexuelles, projets de voyage...
+
+Et ce n'est rien à côté de ce qui les attend ! Pudding Media, une start-up basée
+à San José (Californie), a lancé au mois de septembre 2007 un service
+téléphonique particulièrement intrusif. A l'instar de Skype, la voix est
+véhiculée par Internet. Sauf qu'avec Pudding Media, ce service est entièrement
+gratuit. Et pour cause. Chaque fois qu'un mot-clé surgit dans la conversation ("
+basket ", " rap ", " pizza "...), une publicité ciblée apparaît sur l'écran de
+celui qui parle.
+
+Conscients qu'à pister ainsi leurs clients ils risquaient de perdre leur
+confiance, les grands acteurs du Web ont opéré un repli tactique en 2007. Google
+a fait savoir qu'il limitait à dix-huit mois la conservation des données
+personnelles des internautes, à savoir : la date et l'heure de la connexion,
+l'adresse de l'ordinateur connecté et le type de requête formulée.
+
+Les autres moteurs de recherche lui ont emboîté le pas. Ce qui ne veut pas dire
+que la vie privée des internautes est sauve. Malgré les protestations de groupes
+de pression comme l'Electronic Privacy Information Center, Google a reçu à la
+mi-décembre le feu vert des autorités américaines de la concurrence pour
+racheter DoubleClick Inc. Grâce à des logiciels espions (les cookies),
+DoubleClick surveille les sites fréquentés par 80 % des internautes afin de leur
+envoyer des publicités sur mesure.
+
+Google + DoubleClick : la Toile se resserre autour des usagers du Net. Comment
+échapper à l'emprise de Big Brother ? Obliger Google et ses semblables à
+détruire en temps réel les données personnelles des internautes, ce serait
+ruiner leur modèle économique, fondé sur ces publicités contextuelles. Veut-on
+qu'ils mettent la clé sous la porte ? Sinon, où tracer la ligne jaune ?
+
+Le retour de la bulle ? Dans le cyberespace, à nouveau, les enchères s'envolent.
+En 2007, Microsoft a décidé d'acheter pour 240 millions de dollars (164 millions
+d'euros) 1,6 % du réseau social FaceBook (55 millions d'inscrits, 1,5 million de
+nouveaux utilisateurs chaque mois) ; 240 millions de dollars, c'est cent fois le
+chiffre d'affaires de FaceBook pour 2007 ou peu s'en faut. Une folie ? En 2006,
+Google n'avait pas hésité à acquérir le site d'échange de vidéos YouTube pour
+1,65 milliard de dollars...
+
+Google ne s'en porte pas si mal. En octobre 2007, le titre de la firme de
+Mountain View (Californie) a passé le cap des 600 dollars, soit un gain de 30 %
+depuis le début de l'année. Et, selon les analystes, il ne va pas s'arrêter là.
+
+Peu d'observateurs redoutent une nouvelle bulle spéculative qui, en éclatant en
+2000, avait laissé le secteur exsangue. Les gourous de la Silicon Valley parient
+au contraire que la pub " on line " va continuer à gonfler spectaculairement.
+Ils misent pour cela sur le marché des téléphones mobiles intelligents qui
+permettent de suivre les internautes à la trace et d'en recruter de nouveaux. Un
+marché plus que prometteur, à en juger par l'engouement que ces terminaux de
+poche suscitent déjà.
+
+Un milliard et demi d'internautes en 2007. Combien en 2010 ? L'extension
+exponentielle du réseau des réseaux justifierait les emplettes à prix fort de
+Microsoft ou de Google s'ils étaient assurés de dominer définitivement leur
+marché. Or ce n'est pas acquis.
+
+Google par exemple draine 60 % des requêtes adressées dans le monde à un moteur
+de recherche. Sa part de trafic avoisine les 80 % en Europe de l'Ouest, mais
+elle tombe à 2 % en Corée du Sud, où Internet est roi. Surtout, Google ne capte
+que 17 % des recherches en ligne en Chine, le marché émergent par excellence
+pour le World Wide Web et la publicité " on line ".
+
+Le Nytimes.com passe au gratuit. Depuis le 19 septembre 2007, l'accès au New
+York Times en ligne et à ses archives est gratuit. Il y a deux ans, le titre
+phare de la presse américaine avait restreint l'accès à son site Web. Pour
+consulter ses éditions postérieures à 1987 et les articles de ses
+éditorialistes, les internautes devaient payer 49,95 dollars par an ou 7,95
+dollars par mois.
+
+L'expérience a fait long feu. Le quotidien en ligne le plus fréquenté au monde
+(13 millions de visiteurs uniques par mois) fait le pari que ce qu'il va perdre
+en abonnements (10 millions de dollars par an), il le récupérera en chiffre
+d'affaires publicitaire, engendré par un surcroît de connexions.
+
+Rupert Murdoch est tenté d'en faire autant. Le patron australo-américain du
+géant News Corp. a acheté en 2007 le Wall Street Journal et s'interroge sur son
+business model. Le site WSJ.com a beau compter un million d'abonnés payants,
+pour 60 millions de dollars de recettes annuelles, son nouveau propriétaire
+envisage de rendre son accès gratuit. Lui aussi mise sur le boom de l'e-pub et
+sur un gonflement de l'audience généré par la gratuité, en Europe en
+particulier, où le Wall Street Journal imprimé est difficile à trouver.
+
+Radiohead agace l'industrie musicale. En permettant à ses fans de télécharger
+sur Internet son nouvel album, In Rainbows, le groupe de rock britannique a
+accru la nervosité des majors du disque. Impossible de savoir précisément
+combien d'internautes l'ont acquis gratuitement et combien l'ont payé, et pour
+quel montant (Radiohead leur avait laissé le choix). On ne sait pas non plus si
+l'opération est bénéficiaire. Et comment mesurer la rentabilité de ce joli coup
+de pub.
+
+L'album vient de sortir en CD chez les disquaires, brouillant un peu plus les
+repères. Mais la question n'est pas tellement celle-là. Elle est de savoir si le
+lancement d'In Rainbows est une opération isolée ou si elle préfigure un
+basculement de l'industrie musicale dans le tout-numérique.
+
+Le PAF se lézarde. Pour la première fois en 2007, les Européens de 16 à 24 ans
+ont passé plus de temps devant leur ordinateur que devant la télévision. La même
+année, l'action TF1 a perdu un tiers de sa valeur. Rapprocher ces deux
+nouvelles, c'est constater qu'en 2007 le paysage audiovisuel français a commencé
+à se lézarder.
+
+DATE-CHARGEMENT: 2 janvier 2008
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Lettre d'information
+
+
+                       Copyright 2008 Le Monde Interactif
+                              Tous Droits Réservés
+
+
+                                2 of 2 DOCUMENTS
+
+
+
+                                    Le Monde
+
+                            24 septembre 2009 jeudi
+
+Ne nous trompons pas de radio numérique
+
+RUBRIQUE: DÉBATS; Pg. 23
+
+LONGUEUR: 1189 words
+
+
+
+ENCART: La diffusion terrestre dépassée par l'Int
+
+
+Les pouvoirs publics s'interrogent sur la transition numérique de la radio. Si
+la télévision numérique terrestre - la TNT - est une réussite, alors pourquoi la
+radio numérique terrestre - la RNT - ne le serait-elle pas à son tour ?
+
+En réponse, les experts évoquent les différences entre la RNT et la TNT : pour
+la TNT, les opérateurs de télévision nationaux obtinrent des autorisations
+nationales ; ce n'est pas le cas des radios, qui doivent faire acte de
+candidature pour la RNT, sans certitude, région par région. La TNT multipliait
+par trois l'offre de programmes gratuits, ce n'est pas le cas de la RNT, dont
+l'accroissement de programmes sur les zones denses est marginal. La TNT se
+lançait avec une nouvelle génération de récepteurs TV : écrans plats et haute
+définition ; quant aux récepteurs plus anciens, ils bénéficiaient d'adaptateurs.
+Rien de cela pour la RNT : les récepteurs sont aussi sexy que des briques et il
+faut jeter 140 millions de radios analogiques.
+
+En outre, la TNT démarrait au moment où la télévision s'ouvrait à de nouveaux
+secteurs publicitaires comme celui de la distribution - jadis réservé à la radio
+- et où le pouvoir d'achat croissait avec l'économie. La RNT propose de se
+déployer alors que le secteur de la radio accuse le rude choc de la crise de
+2008 et que les ménages mesurent leurs dépenses. Enfin, les acteurs de la TNT
+reçurent des aides financières significatives pour accompagner le passage au
+numérique. Pour la RNT, le sujet est évoqué, voir souhaité, mais sans résolution
+définitive à ce jour. Le financement public ne soutient pas la volonté publique.
+
+Ce constat n'arrêta pas l'administration, qui s'engagea à surmonter ces
+obstacles. Guidée par la loi, elle procéda au lancement de la RNT en impliquant
+les principaux acteurs dans sa démarche, tant pour la définition de la norme de
+diffusion que pour le choix de la bande hertzienne la plus appropriée. Elle
+reçut des dossiers de candidature pour les premières zones et procéda, comme
+dans l'analogique, à la distribution des autorisations aux élus de son choix.
+
+Ce processus s'assortit de nombre de déclarations d'intention quant à la magie
+du numérique, synonyme de modernité. En oubliant un peu vite que le CD, quoique
+numérique, appartient plus au passé qu'à l'avenir...
+
+Nous en sommes là. Au moment de vérité où le poète laisse la place à la
+calculette et qu'apparaît une facture de diffusion potentielle d'au moins 3
+millions d'euros annuels par réseau national, soit une cinquantaine de millions
+par an au total pour les principaux acteurs. S'y ajouteront des émetteurs
+supplémentaires pour compenser une réception décevante. De surcroît, l'absence
+de réelle concurrence entre les opérateurs de diffusion laisse peu d'espoir sur
+la réduction de ces coûts. Enfin, aucune ressource publicitaire nouvelle
+tangible n'est attendue, et la diffusion débuterait sans parc de récepteurs
+significatif...
+
+Un tel investissement - plus de 250 millions d'euros sur les sept premières
+années - pourrait se justifier s'il avait la faculté de s'amortir sur deux
+décennies dans un environnement technologiquement et économiquement stable. Or
+nous vivons une révolution absolue : l'émergence de l'Internet mobile.
+C'est-à-dire la faculté de se connecter à tout moment, n'importe où, sans
+interruption, à l'Internet par la voie des ondes.
+
+La logique ouverte de l'Internet redéfinit la distribution physique de
+l'information et bouleverse tant les médias traditionnels que les télécoms.
+L'Internet fixe a déjà changé notre présent, l'Internet mobile nous ouvre le
+futur. Et la radio participe pleinement de cette mutation, c'est la radio
+adaptée au protocole Internet : la radio IP.
+
+Ce futur est déjà entre nos mains : c'est l'iPhone. Ce terminal de poche
+révolutionnaire a permis à l'Internet de faire irruption dans le monde de la
+mobilité sur des réseaux déjà existants. Il permet l'accès à des milliers de
+radios, des offres musicales personnalisables, ainsi qu'à sa propre audiothèque.
+
+L'accès se fait indifféremment par les réseaux télécoms ou gratuitement par sa
+propre borne Wi-Fi à domicile ou bien encore par les millions de bornes
+gratuites. Les puces de réception multistandards nous font oublier d'avoir à
+choisir un réseau. Nous écoutons notre radio préférée, c'est tout. La radio IP,
+c'est toute l'offre radio d'Internet aussi accessible qu'une station
+traditionnelle par un transistor.
+
+Le terminal Internet se branche sur l'auto-radio, sur la chaîne hi-fi, sur le
+radio-réveil, et les puces de réception de l'Internet mobile se retrouveront
+partout.
+
+Déjà un million et demi d'iPhone vendus en France. Une industrie entière, en
+moins de deux ans, s'est mise au diapason de l'écran tactile et du terminal IP.
+Certes, la bande passante comme les terminaux restent chers, les réseaux
+télécoms doivent gérer des besoins nouveaux, mais la tendance est là : les prix
+baissent. Et par ailleurs, l'horizon tarifaire est à la convergence de modèle
+entre l'Internet fixe (ADSL) et mobile : un forfait offrant un accès illimité.
+Dès lors, comment constituer un parc viable de récepteurs RNT lorsque le
+renouvellement des postes radio répond d'un cycle de dix ans, tandis que celui
+des terminaux mobiles subventionnés par les opérateurs est de dix-huit mois ?
+
+Contrairement à la RNT, la radio IP a un modèle économique : elle permettra de
+qualifier les auditeurs et d'envoyer des publicités adaptées par groupes de
+public déterminés. C'est de l'Internet audio. Les audiences y seront mesurées en
+temps réel et les espaces publicitaires négociés à la volée sur des places de
+marché virtuelles. La radio IP a démontré une explosion d'initiatives créatives
+sans précédent soutenue par des modèles économiques adaptés aux
+micro-entreprises : voir le succès de Radio Paradise.
+
+Ce qui était il y a encore peu une pensée visionnaire commence aujourd'hui à
+faire consensus au niveau mondial : l'Internet mobile est la nouvelle donne.
+C'est l'antithèse de l'empilement des réseaux de diffusion spécifiques à chaque
+service (radio, télévision). Dans un futur économiquement fragile, où les soucis
+de préservation des ressources en énergie et de respect de l'environnement
+deviennent des priorités, peut-on continuer comme si de rien n'était ?
+
+La juste réflexion menée par les pouvoirs publics devrait les conduire à prendre
+en compte ce fait nouveau et à réorienter un processus administratif qui risque
+de s'enliser sauf à être perfusé de subventions. Pourquoi ne pas réfléchir à
+mieux utiliser certains réseaux numériques déjà existants ? La TNT, qui permet
+la radio, par exemple ? Et il faut, dans tous les cas, promouvoir l'Internet
+mobile dans le cadre plus général de la mutation numérique nationale.
+
+La RNT n'était pas une erreur mais un futur de retard, dépassé par une
+révolution technologique qui a surpris des industries entières. Le reconnaître
+n'enlèverait rien, bien au contraire, à l'estime que l'on peut porter à ceux qui
+l'ont défendue. Un changement de cap n'est jamais une faute quand il permet
+d'éviter de soudains récifs.
+
+Pierre Bellanger Sylvain Anichini
+
+Fondateur, président de Skyrock Consultant, ancien directeur général adjoint de
+Radio France
+
+DATE-CHARGEMENT: 23 septembre 2009
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Lettre d'information
+
+
+                       Copyright 2009 Le Monde Interactif
+                              Tous Droits Réservés

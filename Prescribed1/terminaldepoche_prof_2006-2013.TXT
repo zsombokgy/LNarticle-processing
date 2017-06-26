@@ -1,0 +1,643 @@
+﻿
+                                1 of 8 DOCUMENTS
+
+
+
+                                     01net
+
+                                26 novembre 2007
+
+Le filoutage et l'appairage bientôt dans le dico ?
+
+AUTEUR: Par Philippe Crouzillacq
+
+RUBRIQUE: Accueil/Actualites/Vu sur le Web
+
+LONGUEUR: 262 mots
+
+
+Un terminal de poche accepte-t-il la diffusion pour baladeur ? Traduisez :
+"Peut-on écouter des podcasts sur un smartphone, voire sur un Blackberry ?", la
+question est posée. Et grâce aux travaux de la Commission spécialisée de
+terminologie et de néologie informatique, l'adaptation en français du
+vocabulaire anglo-saxon en usage dans le monde des nouvelles technologies se
+poursuit. Avec plus ou moins de bonheur.
+
+Parmi les réussites, on notera les désormais (presque) incontournables
+"courriel" (pour "mail" ou "e-mail") ou logiciel (en lieu et place du maudit
+software). De nouvelles expressions ont récemment eu les honneurs du J.O.
+(Journal officiel), telles que "prêt à l'emploi" (en remplacement de plug and
+play) ou le plus discuté "filoutage" (destiné à éradiquer le phishing). D'autres
+termes, comme le "disque numérique polyvalent" qui devrait servir à désigner les
+disques Blu-ray et HD-DVD, sont annoncés très prochainement.
+
+Ce lundi 26 novembre, la très officielle Commission avait invité la presse
+spécialisée pour lui demander conseil sur quelques maux (?) à l'étude. Le
+rédacteur de ce post (pardon, de cette note) doit avouer qu'il est resté sans
+voix, face à "l'appairage" (ou apairage) futur équivalent du très anglais
+peering, ou qu'il ne s'est pas très bien remis d'une mauvaise rencontre avec un
+"réémetteur bouche-trou"(gap filler). En revanche, il s'est retenu d'applaudir
+des deux mains à la simple évocation d'une "zone d'accès sans fil"(hot spot) qui
+se marierait à merveille avec son prochain "terminal de poche" (Blackberry,
+iPhone ou autres--).
+
+DATE-CHARGEMENT: 27 novembre 2007
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Journal
+
+
+                      Copyright  2007 Groupe Tests, 01net
+                              All rights reserved
+
+
+                                2 of 8 DOCUMENTS
+
+
+
+                                     01net
+
+                                  26 mars 2008
+
+"Le référencement mobile en est encore à ses débuts"
+
+AUTEUR: Par Gilbert Kallenborn
+
+RUBRIQUE: Accueil/Entreprises/Actualités/App web et logiciels
+
+LONGUEUR: 318 mots
+
+
+
+ENCART: David Bianovici, DG de Relevant Traffic, spécialiste du référencement
+Web, répond à trois questions sur les enjeux de l'Internet mobile.
+
+
+<i> 01net :</i> Avec l'avènement de l'Internet mobile, où en est le
+référencement mobile aujourd'hui ?
+
+David Bianovici : C'est encore un marché en devenir. Il y a des demandes de
+conseils et d'expertise dans ce domaine, mais encore peu de contrats de
+référencement. Le volume de requêtes sur l'Internet mobile est encore trop
+faible.
+
+
+ Les entreprises les plus sensibilisées au référencement mobile sont les banques
+qui commencent à proposer des offres sur le Web mobile. Mais nous sommes encore
+au début.
+
+Dans d'autres pays, le référencement mobile est beaucoup plus avancé. C'est le
+cas, en particulier, du Japon. Là-bas, les utilisateurs sont très friands de
+services Internet mobiles, ce qui génère un trafic plus important.
+
+Les offres actuelles d'Internet mobile ne sont-elles pas trop limitatives ?
+
+En effet, en situation de mobilité, il n'est pas encore possible de surfer en
+toute liberté sur tout l'Internet. L'utilisateur est limité en fonction de
+l'abonnement et du terminal. Mais les choses évoluent, grâce à l'iPhone
+notamment, qui offre plus de possibilités. Depuis presqu'un an, les moteurs de
+recherche sont également déclinés en versions mobiles, pour faciliter la
+recherche sur les terminaux mobiles.
+
+Mais les utilisateurs n'ont pas encore le réflexe d'effectuer une recherche sur
+leur terminal de poche. Ils préfèrent la faire sur un PC, dans un véritable
+environnement de travail.
+
+En quoi le référencement mobile est-il différent du référencement classique ?
+
+Le gros du travail porte sur la forme. On ne peut pas présenter le contenu de la
+même manière que sur l'Internet classique. Un site mobile difficilement
+accessible ne sera pas bien référencé. Il faut simplifier les sites et mettre
+l'accent sur l'ergonomie et le confort d'utilisation.
+
+Mais les grands principes du référencement restent les mêmes, que ce soit au
+niveau de l'amélioration de la popularité, de l'indexation ou de la titraille.
+
+DATE-CHARGEMENT: 27 mars 2008
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Journal
+
+
+                      Copyright  2008 Groupe Tests, 01net
+                              All rights reserved
+
+
+                                3 of 8 DOCUMENTS
+
+
+
+                                     01net
+
+                                23 octobre 2008
+
+SFR injecte de la 3G+ dans deux terminaux de poche
+
+AUTEUR: Par Julie de Meslon
+
+RUBRIQUE: Accueil/Actualites/Droit & Conso/Télécoms mobiles
+
+LONGUEUR: 543 mots
+
+
+
+ENCART: L'opérateur lancera le 19 novembre le nouveau baladeur vidéo d'Archos et
+un "MID", tous deux avec connexion Internet mobile intégrée.
+
+
+La vogue des miniportables semble donner des ailes à SFR. Fort des 100 000
+ventes d'Eee PC, selon Les Echos, dont 80 % assorties d'un forfait mobile,
+l'opérateur compte exploiter un peu plus le filon des petits terminaux d'accès à
+Internet.
+
+Le 19 novembre prochain, il commercialisera deux nouveaux appareils avec
+connectivité 3G+ intégrée (plus besoin de clé USB distincte) : le nouveau
+baladeur vidéo d'Archos et un "mobile Internet device" (MID), un nouveau genre
+de terminal poussé par Intel. Ils s'ajouteront à l'Eee PC 901 avec 3G+ intégrée,
+vendu par SFR depuis le début du mois. Un site de téléchargement d'applications
+sera lancé dans la foulée par l'opérateur, pour alimenter ces appareils "Tom
+Pouce".
+
+Basé sur la dernière génération des baladeurs Archos, l'"Archos 3G+ de SFR" est
+pourvu d'un écran tactile de 4,8 pouces et d'un disque dur de 30 Go. Principal
+usage : la vidéo, mais aussi le surf sur Internet, assure SFR, bien que ce soit
+vraiment peu confortable sur un écran de cette taille-- Le baladeur sera vendu
+249 euros en cas de souscription d'un forfait comprenant l'accès à Internet et
+la télévision (vingt chaînes) en illimité, mais pas la voix.
+
+Un forfait Internet mobile à partir de 19,90 euros par mois
+
+SFR frappe fort en proposant ce forfait à 19,90 euros par mois (avec un
+engagement de 24 mois) pour ses clients actuels et à 24,90 euros par mois pour
+les autres. Ce tarif alléchant n'est valable que jusqu'au 20 janvier 2009, dans
+la limite de 10 000 souscriptions. Le même tarif sera appliqué à l'autre
+appareil que SFR proposera le 19 novembre, le "SFR M! PC Pocket".
+
+Il s'agit d'un MID, c'est-à-dire un terminal d'accès mobile à Internet, pour
+reprendre le terme promu par Intel. En effet, le fondeur s'intéresse lui aussi
+aux petits terminaux et propose aux constructeurs et opérateurs un package
+adapté (processeur Atom, OS Linux par défaut, etc.). Mais l'avenir des MID,
+comme le nouveau BenQ S6, est très incertain : beaucoup plus petits que les
+miniportables, ils sont à peine plus grands qu'un PDA ou un smartphone, qui,
+eux, au moins, rentrent dans une poche et permettent de téléphoner--
+
+Un "Appli Store" alimenté par les développeurs
+
+SFR a quand même cédé à la tentation. Son MID a été fabriqué en marque blanche
+par Compal. Le M! PC Pocket (15 x 8 cm) présente un écran tactile de 4,8 pouces
+et un miniclavier coulissant. Autant dire que le surf ou l'écriture d'e-mails,
+son rôle premier, risquent d'être plutôt malaisés. Comme l'Archos 3G+, le SFR M!
+PC Pocket sera vendu 249 euros (une fois la remise de 100 euros déduite) associé
+au forfait Internet illimité de SFR (à partir de 19,90 euros par mois, mais sans
+accès TV).
+
+Quitte à marcher sur les traces de l'iPhone - la téléphonie en moins -, autant
+lancer également un service de téléchargement d'applications pour équipements de
+"petite taille". Ce sera fait dès le 19 novembre avec l'ouverture du SFR Appli
+Store.
+
+Comme pour l'App Store d'Apple, l'opérateur propose aux développeurs d'alimenter
+ce site en applications (multimédia, jeux, outils pratiques--). Une cinquantaine
+seront disponibles à l'ouverture, destinée aux Eee PC 901 3G+ et aux M! PC
+Pocket. Les logiciels pour mobile viendront plus tard. Chez SFR, le téléphone
+mobile, c'est presque déjà has been--
+
+DATE-CHARGEMENT: 25 octobre 2008
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Journal
+
+
+                      Copyright  2008 Groupe Tests, 01net
+                              All rights reserved
+
+
+                                4 of 8 DOCUMENTS
+
+
+
+                                     01net
+
+                              Mardi 5 Janvier 2010
+
+Google présente le Nexus One, son premier Google phone
+
+AUTEUR: Stéphane Long et Guillaume Deleurence
+
+LONGUEUR: 779 mots
+
+
+
+ENCART: Le téléphone développé par l'américain avec HTC est vendu en direct,
+dans un premier temps aux Etats-Unis. Le Nexus One arrivera plus tard en Europe,
+avec ou sans abonnement Vodafone.
+
+
+C'est l'événement high-tech de ce début d'année. Google présentait ce mardi soir
+aux Etats-Unis son premier téléphone vendu sous sa marque, et développé en
+étroite collaboration avec le fabricant HTC.
+Les rumeurs qui circulaient depuis quelques semaines sur le Net étaient fondées
+: le premier Google phone s'appelle le Nexus One et il sera commercialisé
+directement par Google sur une boutique en ligne à l'adresse
+www.google.com/phone. L'offre est disponible dès aujourd'hui aux Etats-Unis, en
+Angleterre, à Singapour et Hong Kong.
+Les prix du Nexus One vont de 529 dollars pour l'appareil nu [et non pas 579
+dollars, NDLR], à 179 dollars, à condition de s'engager deux ans avec
+l'opérateur T-Mobile. Google promet que sa boutique va rapidement s'ouvrir à
+d'autres pays, à l'Europe notamment, à d'autres terminaux Android et à d'autres
+opérateurs.
+Verizon Wireless s'est déjà engagé avec Google aux Etats-Unis. En Europe, c'est
+Vodafone (actionnaire de SFR) qui est officiellement sur les rangs. L'Europe
+pourrait être servie au printemps.
+
+Où est la « killer app » ?
+
+Le Nexus One est sans doute l'un des téléphones les mieux équipés du moment,
+avec un écran (Amoled) de 3,7 pouces, des mensurations raisonnables (11,5
+millimètres d'épaisseur et 130 grammes), un appareil photo de 5 mégapixels, un
+GPS, un accéléromètre... Et surtout une puissance de de traitement rare sur des
+terminaux de poche, grâce à un processeur SnapDragon de 1 GHz de Qualcomm.
+L'appareil répond au quart de tour, même lorsque l'affichage graphique est
+exigeant, et la démo réalisée pendant près d'une demi-heure par les responsables
+de Google, était impressionnante de ce point de vue. La bête ne devrait pas
+avoir de mal à faire tourner plusieurs applications simultanément.
+Mais il n'est pas sûr que Google ait trouvé la « killer app » capable
+d'inquiéter l'iPhone. Le Nexus One s'appuie sur la version 2.1 d'Android,
+évolution de la version 2.0 (1) embarquée sur le Milestone (le Droid aux
+Etats-Unis) de Motorola, et livrée avec le logiciel de navigation de Google.
+Pas grand-chose de nouveau, donc, en dehors de quelques bonus. Le plus
+appréciable est sans doute la généralisation de la reconnaissance vocale à tous
+les champs de saisie du téléphone, pas seulement à la fonction de recherche.
+Indiquer sa destination à Google Navigation, dicter un e-mail, un SMS, un statut
+Facebook ou chater à la voix sans passer par le clavier, est désormais possible.
+
+Le dispositif de réduction de bruit ambiant, grâce aux deux micro internes,
+devrait améliorer l'efficacité de la reconnaissance. La démo réalisée en direct
+par Google (en anglais) était, là encore, convaincante. Il faudra attendre
+d'avoir l'appareil en main pour s'en assurer.
+Google a aussi soigné la personnalisation du Nexus One, et mis l'accent sur les
+widgets omniprésents (météo, actualités, etc). Des effets 3D sont disponibles
+(dans la nouvelle galerie photo notamment), tout comme les fonds d'écrans
+animés, sensibles au toucher. Enfin, Google Earth fait son apparition avec
+Android 2.1. La déclinaison de l'application sur le téléphone est
+impressionnante. A voir si cela va suffire pour tenter les amateurs qui
+lorgnaient jusqu'à présent l'iPhone.
+A lire, notre dossier complet sur le Nexus One, de Google.
+(1) Et non pas 2.1 comme nous l'avions écrit par erreur. Merci aux lecteurs qui
+nous l'ont signalé.
+
+Quelques caractéristiques du Nexus One
+
+- Hauteur : 119 mm, largeur : 59,8 mm, épaisseur : 11,5 mm, poids : 130 grammes
+avec batterie- Ecran tactile de 3,7 pouces WVGA Amoled, résolution de 800 x 480
+pixels, contraste de 100 000:1- Caméra de 5 mégapixels, zoom x 2 numérique,
+flash LED, vidéo enregistrée en résolution 720 x 480 pixels à 20 images/seconde,
+possibilité de géolocaliser des photos grâce au A-GPS- Compatible réseaux UMTS,
+HSDPA et HSUPA, GSM/EDGE, Wi-Fi 802.11 b/g/n, Bluetooth 2.1- Batterie amovible
+de 1 400 mAH, autonomie de 5 heures pour l'Internet 3G et 6 h 30 en Wi-Fi, 7
+heures en vidéo, 7 à 10 heures en conversation sur réseaux 3G ou 2G...-
+Processeur Qualcomm SnapDragon QSD 8250 cadencé à 1 GHz- Système d'exploitation
+Android 2.1 (Eclair)- 512 Mo de mémoire flash et 512 Mo de RAM, extension de
+mémoire avec carte micro-SD amovible de 4 Go extensible à 32 Go.- Accéléromètre,
+récepteur A-GPS, positionnement cellulaire et Wi-Fi...- Trackball : diode de
+notification tricolore, alertes lors de l'arrivée de nouveaux messages
+électroniques et instantanés, ainsi que SMS.- Ports : prise jack de 3,5 mm pour
+casque avec quatre contacts pour la voix et la télécommande- Algorithme de
+suppression dynamique du bruit.
+
+Une vidéo de présentation par Google de son Nexus One :
+
+Une démo de la reconnaissance vocale :
+
+DATE-CHARGEMENT: 26 Avril 2010
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Magazine
+
+CODE-REVUE: 01net
+
+
+                            Copyright 2010 INTERNEXT
+                              Tous droits réservés
+
+
+                                5 of 8 DOCUMENTS
+
+
+
+                                     01net
+
+                               Mardi 6 Avril 2010
+
+Mobiles : Microsoft pourrait officialiser le projet Pink
+
+AUTEUR: La rédaction
+
+LONGUEUR: 205 mots
+
+
+
+ENCART: La presse américaine a été conviée à une conférence lundi prochain au
+cours de laquelle Microsoft pourrait dévoiler les téléphones de son projet Pink.
+
+
+
+C'est la rumeur Microsoft du jour. L'éditeur pourrait dévoiler lundi 12 avril
+les téléphones issus de son projet Pink, qui fait bruisser la Toile depuis
+plusieurs mois. Selon Cnet, l'éditeur lèvera le voile sur ces nouveaux produits
+à l'occasion d'une conférence de presse à San Francisco.
+Ces téléphones seraient des versions évoluées du Sidekick, un terminal de poche
+équipé d'un clavier, assez proche d'un Blackberry. Selon Reuters, les appareils
+seraient disponibles sur le marché américain dès cet été et commercialisés par
+Verizon. Les fonctions sociales seraient le principal signe distinctif de ces
+modèles, comme le laisse entendre le thème de la conférence de Microsoft (« Make
+your network more social »).
+
+Conçus par Microsoft, fabriqués par Sharp
+
+Ces nouveaux terminaux, conçus par Microsoft, seraient fabriqués par Sharp, tout
+comme l'étaient les différentes déclinaisons du Sidekick. Les ingénieurs
+reponsables du projet Pink sont par ailleurs issus de la société Danger,
+rachetée par Microsoft et à l'origine du Sidekick.
+Il ne s'agit pas toutefois des premiers téléphones tournant sous Windows phone
+7, le système présenté au mois de février dernier, et qui ne devrait pas voir le
+jour avant le second semestre 2010.
+
+DATE-CHARGEMENT: 6 Avril 2010
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Magazine
+
+CODE-REVUE: 01net
+
+
+                            Copyright 2010 INTERNEXT
+                              Tous droits réservés
+
+
+                                6 of 8 DOCUMENTS
+
+
+
+                                     01net
+
+                            Jeudi 15 Septembre 2011
+
+Torch 9860 : ce BlackBerry s'en sort bien sans clavier physique
+
+AUTEUR: Bruno Cormier
+
+LONGUEUR: 1010 mots
+
+
+
+ENCART: Le nouveau smartphone tactile de RIM est souvent surprenant, parfois
+décevant. Il faudrait corriger certains défauts.
+
+
+Rude bataille en perspective. Avec un écran de 3,7 pouces tactile et sans
+clavier physique, le BlackBerry Torch 9860 se lance dans l'arène, celle des
+smartphones « classiques ». Equipé d'un processeur cadencé à 1,2 GHz et de 768
+Mo de mémoire vive, le Torch 9860 devrait offrir quelques belles réjouissances.
+Surtout qu'il est équipé de la dernière version du système d'exploitation (OS)
+de RIM, BlackBerry 7, avec une interface entièrement accélérée en matériel. Nous
+l'avons testé pendant plusieurs jours, en laboratoire et en pratique.
+
+Côté design, on retrouve la patte du fabricant RIM. Le Torch 9860 bénéficie d'un
+boîtier au look soigné, composé de matériaux nobles (plaque amovible arrière en
+métal, revêtements doux, etc.). Le terminal n'est pas des plus fin (1,15 cm
+d'épaisseur), mais il reste relativement léger (135 g). Un appareil agréable,
+même si certains n'apprécieront guère sa face avant noir laqué, sensible aux
+traces de doigts. Notez que tous les boutons de commande respirent la qualité et
+la solidité. Si RIM a renoncé à son traditionnel clavier physique, il  n'a pas
+perdu le sens de la finition.
+
+Un écran éblouissant
+
+L'écran tactile multipoint du Torch 9860 affiche une définition de 480 x 800
+pixels, ce n'est pas extraordinaire, mais suffisant pour une diagonale de 9,4
+cm. En revanche, nous avons été surpris par la luminosité du rétroéclairage :
+580 cd/m² en réglage maximal, 220 cd/m² au minimum. Un résultat, légèrement
+supérieur à celui de l'écran Retina de l', qui permettra de préserver un
+excellent confort de vision, même en plein soleil.
+
+Un système robuste et rapide, qui peine en multitâche
+
+Derrière l'écran se cache donc BlackBerry 7. On lui reconnaît une excellente
+réactivité (les temps d'attente de chargement se font très rares) et une
+stabilité exemplaire. Et on apprécie Liquid Graphics, la technologie
+d'accélération graphique matérielle de l'interface : tout est fluide, jusqu'au
+défilement des pages Web. Un vrai plaisir à utiliser.
+
+Un problème persiste toutefois : BlackBerry 7, comme les précédentes versions,
+peine à conserver ses performances en multitâche. Il devient très poussif dès
+que l'on télécharge et installe une nouvelle application depuis AppWorld.
+
+Une interface trop BlackBerry pour du 100 % tactile
+
+Le design de l'interface n'ayant pas changé, il propose une ergonomie qui n'est
+pas totalement adaptée à un terminal 100 % tactile. Il est parfois difficile de
+toucher certaines commandes, trop petites, ce qui pousse l'utilisateur à revenir
+sur le traditionnel trackpad du smartphone .
+
+Bref, on aurait aimé y voir le système QNX de la , beaucoup plus impressionnant.
+Sachez que . Le clavier virtuel est plutôt réussi, très facile à utiliser à
+l'horizontale, mais un peu étriqué à la verticale, les touches sont un peu
+étroites pour les deux pouces de l'utilisateur.
+
+Une expérience moyenne sur le Web
+
+L'accélération graphique matérielle de l'affichage des pages Web est efficace.
+Les défilements sont fluides, même s'ils sont parfois un peu lents. Deux
+problèmes se sont surtout posés. Le premier est l'absence totale de la gestion
+du Flash, comme sur l'iPhone. Le HTML 5 est en revanche bien géré, notamment
+pour les vidéos.
+
+Le second problème est certainement causé par un bridage du débit 3G que nous
+avons constaté avec la puce SFR fournie par RIM pour notre test : seulement 390
+Kbit/s. Les pages Web se chargent donc très lentement en 3G, alors qu'elles sont
+beaucoup plus rapides à s'afficher en Wi-Fi. Ce bridage est certainement dû à
+l'opérateur, nous l'avons déjà constaté sur plusieurs terminaux BlackBerry.
+
+Bon pour le multimédia
+
+Le Torch 9860 offre une très bonne expérience multimédia. Il s'est révélé
+compatible avec la quasi-totalité des formats vidéo que nous lui avons soumis
+(Xvid, DivX, H.264, 3GP, conteneurs AVI, MP4, mais pas MKV). La lecture est
+fluide jusqu'en 720p, seules quelques micro-saccades se font ressentir en Xvid
+720p.
+
+Le lecteur audio est aussi de bonne facture, très fluide et bien présenté.
+Dommage que ses égaliseurs (prédéfinis uniquement) manquent d'efficacité ! Notez
+qu'il n'y a pas de radio FM. Le capteur 5 Mpix de l'appareil est assisté par un
+flash, mais il bruite très facilement dès que l'on prend une photo en intérieur.
+L'enregistrement vidéo (en 720p) est correct et fonctionnel, sans plus.
+
+Autonomie supérieure à la moyenne
+
+La bonne nouvelle, c'est que le Torch 9860 conserve l'atout maître de ses
+confrères : l'autonomie. En pratique, il tient plus de 2 jours en utilisation
+normale, ce qui est bien supérieur à la moyenne, mais nous avons constaté une
+autonomie légèrement décevante en communication GSM (7 heures) et en surf 3G (3
+heures et 30 minutes). En veille (avec e-mail et réseaux sociaux en push), il
+est bien plus performant, de même qu'en lecture vidéo (7 heures et 30 minutes).
+
+Mais dans quel état erre le GPS ?
+
+Le gros défaut du Torch 9860, c'est son application de géolocalisation. Beaucoup
+moins précise et réactive que Google Maps sur un téléphone Android, celle-ci ne
+permet pas de savoir vers où on se dirige (pas de boussole). Elle suit très mal
+les déplacements de l'utilisateur et n'offre presque jamais une position précise
+(testée à Paris).
+
+
+Un point très négatif, surtout que l'application n'offre pas beaucoup de
+services. Il faudra se tourner vers Google Maps pour BlackBerry... même si elle
+n'est pas aussi aboutie que sur les smartphones Android.
+
+Le verdict
+
+Le BlackBerry Torch n'est pas un mauvais smartphone . Loin de là. Dans le
+domaine du 100 % tactile, il est sur la bonne voie. Cela dit, on aurait aimé y
+voir l'audace d'un système d'exploitation QNX, plus adapté au tactile et au
+multitâche, tout comme un GPS plus fonctionnel et des photos moins bruitées.
+Quelques petits défauts qui n'entachent pas l'appareil : écran très lumineux,
+fiabilité et bonne autonomie. Le Torch 9860 est vendu à partir de 130 euros avec
+abonnement chez Bouygues Telecom.
+Prix :   450 euros (appareil nu, sans engagement)
+
+DATE-CHARGEMENT: 7 Novembre 2013
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Magazine
+
+CODE-REVUE: 01net
+
+
+                            Copyright 2011 INTERNEXT
+                              Tous droits réservés
+
+
+                                7 of 8 DOCUMENTS
+
+
+
+                                     01net
+
+                               Jeudi 8 Mars 2012
+
+UPS équipe ses livreurs de 100 000 terminaux mobiles communicants
+
+AUTEUR: Frédéric Bergé
+
+LONGUEUR: 326 mots
+
+
+
+ENCART: Le coursier international déploie en Europe le nouveau terminal mobile
+de ses livreurs. Fin 2013, 100 000 équipements seront en service dans le monde.
+
+
+UPS commence à déployer en Europe, en Allemagne et au Royaume-Uni, puis dans les
+autres pays dont la France, un terminal de poche de nouvelle génération destiné
+à ses chauffeurs-livreurs. Cet équipement mobile a été distribué à partir de
+septembre   2011 aux Etats-Unis, plus de 100 000 exemplaires devant être mis en
+service dans le monde fin 2013, au terme du déploiement.
+
+Ce terminal permet la remontée, par les chauffeurs-livreurs, de la plupart des
+informations de suivi des colis qui sont ensuite consultées en ligne par les
+clients du célèbre coursier international, facilitant ainsi le traitement de
+32,1 millions de demandes de suivi en ligne par jour en moyenne. Il permet
+également aux opérateurs d'UPS de communiquer avec les chauffeurs qui sont sur
+la route pour leur transmettre les demandes des clients, notamment celles de
+modification des instructions de livraison des colis. C'est pourquoi ce terminal
+embarque une technologie permettant la commutation instantanée entre plusieurs
+réseaux de téléphonie mobile en cas de perte de signal d'un opérateur.
+
+UPS utilise un matériel Honeywell
+
+Doté d'un écran couleur, notamment pour faciliter l'affichage de cartes
+routières, il est équipé d'un lecteur de codes à barres, pour le décodage de
+nombreux symboles, y compris des codes-barres linéaires existants d'UPS ainsi
+que l'UPS MaxiCode. Il dispose aussi d'une connexion wi-fi à haut débit (65
+Mbit/s).
+
+Baptisé DIAD V, il succède au terminal existant DIAD IV qui avait notamment été
+jugé trop volumineux et trop lourd, et par rapport auquel poids et taille ont
+été réduits de 50 %. «    Le boîtier brun encombrant doté d'un écran monochrome
+apparu sur le marché il y a vingt  ans, est devenu un appareil mobile léger et
+fin    » , déclare Dave Barnes, DSI d'UPS. Contrairement à ses habitudes, UPS
+n'a pas fait développer un équipement spécifique comme pour les générations
+précédentes de terminal, mais a utilisé un matériel d'origine Honeywell.
+
+DATE-CHARGEMENT: 9 Mars 2012
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Magazine
+
+CODE-REVUE: 01net
+
+
+                            Copyright 2012 INTERNEXT
+                              Tous droits réservés
+
+
+                                8 of 8 DOCUMENTS
+
+
+
+                         Journal du Net, JDN Solutions
+
+                             Jeudi 15 Novembre 2012
+
+Jeux vidéo : un marché en cours de mutation
+
+AUTEUR: La Rédaction
+
+RUBRIQUE: E-BUSINESS; Le Net
+
+LONGUEUR: 213 mots
+
+
+
+ENCART: Le marché du jeu vidéo va se transformer pour pousser les rapprochements
+entre les éditeurs traditionnels et les éditeurs de jeux sociaux.
+
+
+L'industrie du jeux vidéo se divise-t-elle ou est-elle en train de se renouveler
+? Face au succès des éditeurs de jeux en ligne, mobiles et sociaux, les éditeurs
+traditionnels voient leur environnement concurrentiel se modifier. Encouragés
+par ces nouveaux modèles, le casual gaming attire de plus en plus une nouvelle
+catégorie de joueurs, les technophiles. En France, en Allemagne, au Royaume-Uni
+et aux Etats-Unis, les joueurs sur smartphone représentent 12% de la population
+totale et passent 38% de leur temps de jeu sur leur terminal de poche contre 27%
+de leur temps de jeu sur leur console. Les consoles devraient quant à elle se
+repositionner vers le "cloud gaming" dont les coûts d'infrastructures pour les
+éditeurs restent malgré tout importants.
+
+Le marché va donc se transformer pour pousser au rapprochement entre les
+éditeurs traditionnels et les éditeurs de jeux sociaux. Sur ces derniers, les
+sommes dépensées par les joueurs sont encore limitées : 35% des anglo-saxons
+interrogés déclarent avoir déjà dépensé de l'argent sur les réseaux sociaux, en
+moyenne 5 euros par mois. Ils sont 26% en Europe mais toutefois 36% au Brésil,
+en Russie, en Inde et en Chine. Les joueurs domiciliés dans les pays de la BRIC
+consomment toutefois moins, en moyenne 4 euros par mois.
+
+DATE-CHARGEMENT: 15 Novembre 2012
+
+LANGUE: FRENCH; FRANÇAIS
+
+TYPE-PUBLICATION: Publication internet
+
+CODE-REVUE: JOURNALDUNET
+
+
+                         Copyright 2012 Benchmark Group
+                              Tous droits réservés
