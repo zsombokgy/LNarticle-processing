@@ -23,5 +23,8 @@ textlist3 = year_month_day(textlist2)
 textlist4 = month_number(textlist3)
 #Correct some of the date formats
 
-#Print the first 200 characters of each textlist's first element for comparison
-print(textlist[0][0:200],"\n______\n",textlist2[0][0:200],"\n______\n",textlist3[0][0:200],"\n______\n",textlist4[0][0:200])
+#Print output into a file
+os.chdir('..') #Do not use 'Prescribed1'
+article_dates_output = open("article_dates_output.txt", "w+")
+print("\n".join(textlist4), file = article_dates_output)
+article_dates_output.close()
