@@ -1,0 +1,422 @@
+Le Monde
+2009-04-19
+EMPRUNT LEXICAL
+Description
+Les emprunts sont le plus souvent des noms, des verbes, des adjectifs :
+c’est-à-dire qu’ils appartiennent aux classes lexicales dont le vocabulaire
+peut être étendu, dites « ouvertes ». Les classes fermées
+pronoms, conjonctions, etc.) ne reçoivent, par définition, que rarement des ajouts.
+Cela peut arriver cependant, notamment quand la langue donneuse est une
+langue de prestige[réf. nécessaire]. Le latin de Gaule a ainsi reçu plusieurs
+mots-outils des langues germaniques après les grandes invasions1. De plus,
+la classe de l’emprunt ne correspond pas nécessairement à celle du mot d’origine,
+et il arrive qu’une langue emprunte un mot appartenant, dans la langue d’origine,
+à une classe fermée pour en faire un mot d’une classe ouverte – par exemple,
+en français, quidam est un nom, emprunté au latin, où c’est un pronom[réf. nécessaire].
+Il faut aussi signaler le cas des calques, qui ne sont pas des emprunts
+de lemmes mais de sens seuls, lesquels sont traduits à la lettre dans la
+langue d’arrivée. Ainsi, le superman anglais et le surhomme français sont
+des calques de l’allemand Übermensch. Dans les deux cas, il s’agit d’une
+traduction littérale, über signifiant « sur » et Mensch « humain ».
+https://fr.wikipedia.org/wiki/Emprunt_lexical
+
+Le Monde
+2010-01-31
+PIXELS;
+TOUT " LE MONDE " SUR MON iPHONE
+Les mots d’emprunt, bien que normalement moins nombreux que les mots
+hérités de la langue-mère (sauf, naturellement, dans les créoles),
+sont extrêmement courants dans le vocabulaire des langues : c’est
+en effet un processus inconscient et un facteur constitutif de la
+vie des langues. Mais l'intégrité d'une langue n'est assurée que
+dans la mesure où les emprunts ne dépassent pas un seuil de tolérance, 
+que le linguiste Claude Hagège évalue à 15 % du lexique3. C'est la raison
+pour laquelle des entités normatives, comme l’Académie française ou la
+Délégation générale à la langue française pour le français de France,
+et l'Office québécois de la langue française pour le français du Canada,
+peuvent vouloir contenir le processus d'emprunt dans des limites raisonnables.
+Avec le temps, des mots empruntés peuvent s’être lexicalisés et ne plus 
+être sentis comme des emprunts. Par exemple, le mot redingote est bien
+un emprunt à l’anglais riding-coat (« manteau pour aller à cheval »).
+Sa lexicalisation s’explique par son ancienneté en français (il est
+attesté depuis le XVIIIe siècle) et apparaît par son adaptation à
+l’orthographe et au système phonologique du français. Nombre de mots
+sont d’anciens emprunts que seuls les spécialistes d’étymologie peuvent
+identifier comme tel.
+Autre exemple : en anglais « an apron » (un tablier) est une adaptation
+phono-morphologique du français « un napperon » (petite nappe), l'emprunt
+n'est a priori reconnaissable ni par sa forme, ni par sa prononciation,
+ni par son sens, bien que tous trois soient essentiels dans la formation
+du nouveau lemme en anglais.
+https://fr.wikipedia.org/wiki/Emprunt_lexical
+
+Le Monde
+2012-05-13
+Raisons de l'emprunt
+Plusieurs raisons expliquent l’emprunt lexical. Elles ne s’excluent bien
+sûr pas les unes les autres.
+Tout d’abord, un signifiant pour un signifié nouvellement apparu peut
+manquer dans la langue empruntant le mot. Ainsi, quand de nouveaux animaux
+ou des plantes alors inconnues ont été découverts, leur nom a souvent été
+directement emprunté aux langues des pays qui les abritaient :
+En cas d’interférence linguistique, l’emprunt devient très fréquent.
+Ainsi, le mot wassingue (serpillière) utilisé dans le français du Nord
+de la France est un emprunt au flamand occidental wassching, ces régions
+françaises étant en contact adstratique avec des pays parlant cette langue.
+De même, le superstrat francique a fourni un grand nombre de mots au français,
+parmi lesquels, par exemple, guerre, heaume ou framboise. Il n’y a pas là
+toujours de nécessité réelle à emprunter un terme étranger (serpillière et
+wassingue, par exemple) : les peuples en contact, cependant, ne s’échangent
+pas seulement des biens ou des idées. Des mots étrangers sont reproduits
+parce qu’ils peuvent être entendus plus souvent que les mots vernaculaires.
+https://fr.wikipedia.org/wiki/Emprunt_lexical
+
+01net
+2009-12-28
+Smartphone WIKI
+Plusieurs dénominations sont utilisées : en Europe, on utilise
+smartphone » ou, de manière tout à fait exceptionnelle (dans certains
+textes administratifs par exemple), « ordiphone », ou « terminal de poche »;
+au Canada francophone « téléphone intelligent »5 (en anglais, « smart »
+signifie « intelligent » mais, tout aussi bien, élégant — comme l'élégance
+d'une solution —, malin, astucieux).
+Les termes officiels en France sont « terminal de poche » et « ordiphone »
+6, un mot-valise formé à partir des mots « ordinateur » et « téléphone ».
+Au Québec, « téléphone intelligent » est recommandé avec comme synonymes
+ordiphone » 5, « téléphone-ordinateur », ou « téléphone-assistant personnel »
+même si ces derniers sont très peu utilisés.
+Le terme de « photophone » est parfois employé pour désigner un smartphone
+capable de prendre des photographies numériques, alors que les anglophones
+utilisent parfois le terme camera phone. Cette pratique est désignée sous le nom de phonéographie.
+Pour désigner un téléphone mobile basique (ne disposant pas des
+fonctionnalités avancées d’un smartphone), au Canada, on suggère
+le terme « téléphone polyvalent » 7. Dans le monde anglophone,
+c'est le terme feature phone qui est parfois utilisé.
+
+01net
+2010-01-04
+Les photophones
+Les smartphones permettent de faire d'aussi belles photos
+qu'un appareil photo compact si la luminosité est suffisante.
+Il existe de nombreuses applications de retouche photos.
+2010 Dès , l’évolution technique a permis un usage massif de
+l'appareil photo du smartphone. En particulier, la pratique
+du selfie (de l'anglais self : soi, soi-même) : les personnes 
+se prennent elles-mêmes en photo, soit dans un miroir avec
+leur appareil / smartphone dans la main, soit avec des capteurs
+photographiques installés du côté de l'écran.
+
+01net
+2010-01-08
+Les protections des données personnelles
+Les prochaines études de la CNIL seront destinées
+à analyser et comprendre cet écosystème pour recommander
+aux constructeurs et développeurs d'application des bonnes
+pratiques leur permettant d'offrir des produits et services
+clairs sur leurs conditions d'utilisation et plus respectueux
+de la vie privée.
+L'un de ses objectifs futurs est de sensibiliser les
+utilisateurs de smartphones pour les aider à mieux sécuriser
+et maîtriser leurs données personnelles.
+Dans les années à venir, la protection des données personnelles
+va devenir un enjeu majeur pour les utilisateurs de smartphones
+avec l'arrivée de nouvelles fonctionnalités comme le paiement
+mobile par la technologie sans-fil NFC.
+
+01net
+2010-01-15
+Sur la batterie
+Les accumulateurs nickel-cadmium et nickel-hydrure métallique sensibles
+à l'effet mémoire ont été les principales batteries utilisées dans les
+smartphones avant d'être progressivement remplacées dans les années 1990
+par celles à lithium-ion sans mémoire mais plus coûteuses et dont l'autonomie
+a tendance à baisser face à l'augmentation de la consommation énergétique d'un smartphone45.
+Un mobile inintelligent (par exemple, le Nokia 1209 (78 g), BL-5CA, 700 mAh,
+3,7 V, 2,6 Wh, 19 g, 100 × 70 pixels46, 1,45 pouce47, 89 ppp en largeur et
+79 ppp en hauteur) a moins d'énergie stockée qu'un téléphone intelligent
+iPhone, 3,5 pouces sorti en France fin 2007, 1 400 mAh, 5,2 Wh ou iPhone 6, 5,5 pouces 1280*720 pixels, sorti en France en septembre 2014, 2 915 mAh, 10,8 Wh) (LG G4, 5,5 pouces 2560*1440 pixel, sortie en milieu 2015, 3000 mAh).
+En effet, un smartphone dont l'écran est allumé, consomme plus d'énergie
+et le processeur consomme davantage d'énergie. L'écran est un des principaux
+consommateurs d'énergie d'un smartphone, d'où une augmentation nécessaire
+de la réserve d'énergie avec l'augmentation des dimensions et résolutions 
+de l'écran. Les téléphones portables basiques (non tactile) ont quasiment
+tous des écrans plus petits et de moindre définition que les écrans de smartphones.
+La batterie pèse 45,2 g48 pour le S5 (145 g), 5,1 pouces, sorti en avril 2014.
+
+01net
+2010-09-24
+Les coques
+Les téléphones de milieu et d’entrée de gamme ont généralement
+des coques dorsales et frontales en plastique (à l'exception de
+l'écran en verre de protection Gorilla Glass, ce châssis est le
+plus souvent en polycarbonate). Le plastique a l'avantage d'être
+peu cher et offre une réception réseau optimale tout en rendant
+invisible l'antenne de l'extérieur mais la conductivité thermique
+est mauvaise. Le haut de gamme (existe avec coque tout en plastique 
+comme en 2011, le S2) ont des coques avec des métaux généralement
+anodisés (aluminium, magnésium), malléables afin de créer des design
+plus originaux, à l'esthétique plus valorisée et offrant une meilleure 
+dissipation thermique mais ils sont plus lourds et chers, marquent plus 
+les rayures, ont généralement une coque monobloc à batterie inamovible
+et amoindrissent la réception réseau (cf. antennagate)49.
+Il existe des coques molles ou dures qui s'ajoutent à la coque d'origine 
+et des films transparents pour écran afin d'augmenter la protection contre les chutes et les rayures.
+
+01net
+2010-10-22
+De quoi j'me mail, le podcast (22/10)
+Retrouvez l'émission de François Sorel, diffusée chaque semaine sur rmc.fr.
+Télécharger le podcast
+Au menu de l'édition du 22 octobre 2010 :
+Le Club de la presse IT avec Christophe Joly, journaliste spécialisé dans la
+high-tech, Frédéric Boutier et Jean-Marie Portal, rédacteurs en chef adjoints à
+Micro Hebdo.- Comparatif de smartphones : quel ordiphone choisir ?- La Cnil
+surveille Facebook.- L'étude d'Afom sur les usages du mobile par les Français.
+Le Labo Fnac-RMC avec Pascal Petitpas, directeur des Labos Fnac.Présentation de
+la liseuse électronique FnacBook.
+Musique sur Internet : la fin du gratuit ? Avec Christofer Ciminelli, rédacteur
+en chef de l'Ordinateur individuel-SVM, et Alain Charriras, administrateur de
+l'Administration des droits des artistes et musiciens interprètes (Adami).
+
+01net
+2013-01-23
+Environnement naturel
+Les smartphones sont des appareils extrêmement sophistiqués,
+dont le bilan environnemental est lourd : usage de métaux rares
+plus de 45 métaux dans les cartes électroniques73), création de
+déchets dangereux et une forte demande en énergie (à la production
+et durant l'utilisation)74,75 : Leur empreinte environnementale est
+ainsi supérieure à celle de leurs prédécesseurs. Les écrans tactiles
+des smartphones nécessitent, pour leur fabrication, de l'indium qui
+est un métal rare76.
+La démocratisation massive des smartphones, tout comme le « besoin »
+de remplacement relativement fréquent, soulève donc des interrogations
+d'ordre écologique et de soutenabilité du développement. La course à
+l'innovation et la publicité entraînent en pratique un renouvellement
+fréquent, qui fait parler d'obsolescence, voire d'obsolescence programmée77.
+Le dessin animé pédagogique américain L'Histoire des choses (2007)
+détaille le cycle des produits de consommation tels que les smartphones.
+Il décrit les multiples conséquences à la fois sur l'environnement naturel,
+les travailleurs, les consommateurs, l'économie. Un deuxième film a été
+réalisé par la même association, décrivant plus précisément le secteur
+de l'électronique grand public (The story of electronics).
+Pour éviter la surproduction de déchets électroniques, des sites Internet
+comme iFixit aux États-Unis ou SOSav en France, permettent aux utilisateurs
+de réparer eux-mêmes leur smartphone.
+Le nombre de mobiles en circulation devrait atteindre 10 milliards en 201278.
+
+01net
+2013-01-23
+Espace de Stockage
+L'espace de stockage interne du smartphone annoncé par les
+fabricants indique la quantité de mémoire totale (libre et occupée).
+L'espace occupé par le système d'exploitation et les applications
+n'est pas annoncé. Une étude comparative a été menée en 2014,
+détaillant pour quelques modèles de smartphones l'espace de stockage libre81.
+Il se peut que les applications présentes sur une carte mémoire
+externe (ajout de mémoire) ne fonctionnent pas mais marchent en
+mémoire interne82.
+La plupart des appareils sous Android peuvent augmenter le volume
+de stockage avec l’ajout d’une carte microSD mais cet accroissement 
+se limite au plus à l'ajout d'une carte de 128 Go en 2014.
+Les iPhone ne peuvent pas recevoir de carte, donc le choix de la
+capacité de stockage est important. Une étude menée par l’application
+IceCream et Ondevice Research, sur 1 000 sondés aux États-Unis et au
+Royaume-Uni montre que : 45 % des utilisateurs d’iPhone avouent se
+retrouver à court d’espace libre au moins une fois dans l'année,
+22 % au moins une fois par mois, 12 % au moins une fois par semaine
+et 8 % quotidiennement83,84.
+
+01net
+2009-12-28
+Smartphone WIKI
+Plusieurs dénominations sont utilisées : en Europe, on utilise
+smartphone » ou, de manière tout à fait exceptionnelle (dans certains
+textes administratifs par exemple), « ordiphone », ou « terminal de poche »;
+au Canada francophone « téléphone intelligent »5 (en anglais, « smart »
+signifie « intelligent » mais, tout aussi bien, élégant — comme l'élégance
+d'une solution —, malin, astucieux).
+Les termes officiels en France sont « terminal de poche » et « ordiphone »
+6, un mot-valise formé à partir des mots « ordinateur » et « téléphone ».
+Au Québec, « téléphone intelligent » est recommandé avec comme synonymes
+ordiphone » 5, « téléphone-ordinateur », ou « téléphone-assistant personnel »
+même si ces derniers sont très peu utilisés.
+Le terme de « photophone » est parfois employé pour désigner un smartphone
+capable de prendre des photographies numériques, alors que les anglophones
+utilisent parfois le terme camera phone. Cette pratique est désignée sous le nom de phonéographie.
+Pour désigner un téléphone mobile basique (ne disposant pas des
+fonctionnalités avancées d’un smartphone), au Canada, on suggère
+le terme « téléphone polyvalent » 7. Dans le monde anglophone,
+c'est le terme feature phone qui est parfois utilisé.
+
+01net
+2010-01-04
+Les photophones
+Les smartphones permettent de faire d'aussi belles photos
+qu'un appareil photo compact si la luminosité est suffisante.
+Il existe de nombreuses applications de retouche photos.
+2010 Dès , l’évolution technique a permis un usage massif de
+l'appareil photo du smartphone. En particulier, la pratique
+du selfie (de l'anglais self : soi, soi-même) : les personnes 
+se prennent elles-mêmes en photo, soit dans un miroir avec
+leur appareil / smartphone dans la main, soit avec des capteurs
+photographiques installés du côté de l'écran.
+
+01net
+2010-01-08
+Les protections des données personnelles
+Les prochaines études de la CNIL seront destinées
+à analyser et comprendre cet écosystème pour recommander
+aux constructeurs et développeurs d'application des bonnes
+pratiques leur permettant d'offrir des produits et services
+clairs sur leurs conditions d'utilisation et plus respectueux
+de la vie privée.
+L'un de ses objectifs futurs est de sensibiliser les
+utilisateurs de smartphones pour les aider à mieux sécuriser
+et maîtriser leurs données personnelles.
+Dans les années à venir, la protection des données personnelles
+va devenir un enjeu majeur pour les utilisateurs de smartphones
+avec l'arrivée de nouvelles fonctionnalités comme le paiement
+mobile par la technologie sans-fil NFC.
+
+01net
+2010-01-15
+Sur la batterie
+Les accumulateurs nickel-cadmium et nickel-hydrure métallique sensibles
+à l'effet mémoire ont été les principales batteries utilisées dans les
+smartphones avant d'être progressivement remplacées dans les années 1990
+par celles à lithium-ion sans mémoire mais plus coûteuses et dont l'autonomie
+a tendance à baisser face à l'augmentation de la consommation énergétique d'un smartphone45.
+Un mobile inintelligent (par exemple, le Nokia 1209 (78 g), BL-5CA, 700 mAh,
+3,7 V, 2,6 Wh, 19 g, 100 × 70 pixels46, 1,45 pouce47, 89 ppp en largeur et
+79 ppp en hauteur) a moins d'énergie stockée qu'un téléphone intelligent
+iPhone, 3,5 pouces sorti en France fin 2007, 1 400 mAh, 5,2 Wh ou iPhone 6, 5,5 pouces 1280*720 pixels, sorti en France en septembre 2014, 2 915 mAh, 10,8 Wh) (LG G4, 5,5 pouces 2560*1440 pixel, sortie en milieu 2015, 3000 mAh).
+En effet, un smartphone dont l'écran est allumé, consomme plus d'énergie
+et le processeur consomme davantage d'énergie. L'écran est un des principaux
+consommateurs d'énergie d'un smartphone, d'où une augmentation nécessaire
+de la réserve d'énergie avec l'augmentation des dimensions et résolutions 
+de l'écran. Les téléphones portables basiques (non tactile) ont quasiment
+tous des écrans plus petits et de moindre définition que les écrans de smartphones.
+La batterie pèse 45,2 g48 pour le S5 (145 g), 5,1 pouces, sorti en avril 2014.
+
+01net
+2010-09-24
+Les coques
+Les téléphones de milieu et d’entrée de gamme ont généralement
+des coques dorsales et frontales en plastique (à l'exception de
+l'écran en verre de protection Gorilla Glass, ce châssis est le
+plus souvent en polycarbonate). Le plastique a l'avantage d'être
+peu cher et offre une réception réseau optimale tout en rendant
+invisible l'antenne de l'extérieur mais la conductivité thermique
+est mauvaise. Le haut de gamme (existe avec coque tout en plastique 
+comme en 2011, le S2) ont des coques avec des métaux généralement
+anodisés (aluminium, magnésium), malléables afin de créer des design
+plus originaux, à l'esthétique plus valorisée et offrant une meilleure 
+dissipation thermique mais ils sont plus lourds et chers, marquent plus 
+les rayures, ont généralement une coque monobloc à batterie inamovible
+et amoindrissent la réception réseau (cf. antennagate)49.
+Il existe des coques molles ou dures qui s'ajoutent à la coque d'origine 
+et des films transparents pour écran afin d'augmenter la protection contre les chutes et les rayures.
+
+01net
+2010-10-22
+De quoi j'me mail, le podcast (22/10)
+Retrouvez l'émission de François Sorel, diffusée chaque semaine sur rmc.fr.
+Télécharger le podcast
+Au menu de l'édition du 22 octobre 2010 :
+Le Club de la presse IT avec Christophe Joly, journaliste spécialisé dans la
+high-tech, Frédéric Boutier et Jean-Marie Portal, rédacteurs en chef adjoints à
+Micro Hebdo.- Comparatif de smartphones : quel ordiphone choisir ?- La Cnil
+surveille Facebook.- L'étude d'Afom sur les usages du mobile par les Français.
+Le Labo Fnac-RMC avec Pascal Petitpas, directeur des Labos Fnac.Présentation de
+la liseuse électronique FnacBook.
+Musique sur Internet : la fin du gratuit ? Avec Christofer Ciminelli, rédacteur
+en chef de l'Ordinateur individuel-SVM, et Alain Charriras, administrateur de
+l'Administration des droits des artistes et musiciens interprètes (Adami).
+
+01net
+2013-01-23
+Environnement naturel
+Les smartphones sont des appareils extrêmement sophistiqués,
+dont le bilan environnemental est lourd : usage de métaux rares
+plus de 45 métaux dans les cartes électroniques73), création de
+déchets dangereux et une forte demande en énergie (à la production
+et durant l'utilisation)74,75 : Leur empreinte environnementale est
+ainsi supérieure à celle de leurs prédécesseurs. Les écrans tactiles
+des smartphones nécessitent, pour leur fabrication, de l'indium qui
+est un métal rare76.
+La démocratisation massive des smartphones, tout comme le « besoin »
+de remplacement relativement fréquent, soulève donc des interrogations
+d'ordre écologique et de soutenabilité du développement. La course à
+l'innovation et la publicité entraînent en pratique un renouvellement
+fréquent, qui fait parler d'obsolescence, voire d'obsolescence programmée77.
+Le dessin animé pédagogique américain L'Histoire des choses (2007)
+détaille le cycle des produits de consommation tels que les smartphones.
+Il décrit les multiples conséquences à la fois sur l'environnement naturel,
+les travailleurs, les consommateurs, l'économie. Un deuxième film a été
+réalisé par la même association, décrivant plus précisément le secteur
+de l'électronique grand public (The story of electronics).
+Pour éviter la surproduction de déchets électroniques, des sites Internet
+comme iFixit aux États-Unis ou SOSav en France, permettent aux utilisateurs
+de réparer eux-mêmes leur smartphone.
+Le nombre de mobiles en circulation devrait atteindre 10 milliards en 201278.
+
+01net
+2013-01-23
+Espace de Stockage
+L'espace de stockage interne du smartphone annoncé par les
+fabricants indique la quantité de mémoire totale (libre et occupée).
+L'espace occupé par le système d'exploitation et les applications
+n'est pas annoncé. Une étude comparative a été menée en 2014,
+détaillant pour quelques modèles de smartphones l'espace de stockage libre81.
+Il se peut que les applications présentes sur une carte mémoire
+externe (ajout de mémoire) ne fonctionnent pas mais marchent en
+mémoire interne82.
+La plupart des appareils sous Android peuvent augmenter le volume
+de stockage avec l’ajout d’une carte microSD mais cet accroissement 
+se limite au plus à l'ajout d'une carte de 128 Go en 2014.
+Les iPhone ne peuvent pas recevoir de carte, donc le choix de la
+capacité de stockage est important. Une étude menée par l’application
+IceCream et Ondevice Research, sur 1 000 sondés aux États-Unis et au
+Royaume-Uni montre que : 45 % des utilisateurs d’iPhone avouent se
+retrouver à court d’espace libre au moins une fois dans l'année,
+22 % au moins une fois par mois, 12 % au moins une fois par semaine
+et 8 % quotidiennement83,84.
+
+Le Monde
+2008-01-03
+Analyse;
+Conditions de fabrication
+En novembre 2014, l'émission Cash investigation, diffusée sur France 2
+a enquêté sur les dessous « opaques » de la fabrication des téléphones
+intelligents88. Ainsi, le reportage démontre que les sous-traitants de
+certains industriels, comme le chinois Huawei, emploient des populations 
+asiatiques pouvant inclure des enfants, dans des conditions de travail
+difficiles. Elle révèle également qu'au Congo, des enfants travaillent
+12 heures par jour pour 5,5 euros, pour l'extraction du tantale des
+condensateurs89. Enfin, l'enquête dénonce le financement de guerres
+en Afrique — des entreprises asiatiques achetant de manière illégale 
+des minerais aux rebelles contrôlant les mines — et le rejet dans la
+nature, du fait de la fabrication de la plupart des téléphones des
+grands fabricants, de milliers de tonnes de produits toxiques par an,
+dévastant des villes entières et causant de nombreux cancers90,91,92. 
+Pour Olivier Chicheportiche, c'est « la communication des fabricants
+qui vole en éclats » au-delà des scandales révélés par l'émission
+d'investigation93.
+
+Le Monde
+2009-09-24
+D'autres usages
+Il a été proposé que des smartphones désuets (remplacés avant
+d'avoir été utilisés pour toutes leurs capacités, mais fonctionnant
+encore, ou réparés) et/ou leurs divers capteurs (bruit, mouvement/présence/absence;
+relai émetteur/récepteur, etc.) services soient réutilisés pour d'autres
+usages que la téléphonie ; au service par exemple :
+de la domotique97 ;
+de l'éducation (en particulier pour des outils éducatif nécessitant l'accès à l'Internet dans les communautés à faible revenu98)
+de surveillance de la qualité de l'eau, de l'air, des sols, d'indices de biodiversité ou de braconnage, etc.98 ;
+de la médecine, avec par exemple la surveillance de la santé, le training, l'aide à des malades Alzheimer, des victimes d'AVC (dont pour réapprendre à marcher), d'infarctus98 ;
+détection et aide à la gestion de catastrophe (naturelles ou technologiques)98,
+remplacer un réseau internet dont l'infrastructure physique a été détruite,
+suite à un grave tremblement de terre par exemple)99.
+
