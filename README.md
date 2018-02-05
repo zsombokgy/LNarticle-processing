@@ -12,7 +12,9 @@ This project has multiple steps:
     
     19 avril 2009 dimanche → 19 avril 2009 → 2009 avril 19 → 2009-04-19
     
-    'article_process_dates.py' contains the main execution of this cleaning, while 'article_modules.py' contains the functions used in the main file. Note: make sure to store these python files in the same directory. Additionally, have the folder 'Prescribed1' in the same directory, or don't forget to modify the path to it.
+    'article_dates.py' contains the main execution of this cleaning, while 'article_dates_modules.py' contains the functions used in the main file. Each file is annotated to make it easier to understand what things do.
+    
+    Note: make sure to store these python files in the same directory. Additionally, have the folder 'Prescribed1' in the same directory, or don't forget to modify the path to it.
 
 
     
