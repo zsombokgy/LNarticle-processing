@@ -1,5 +1,5 @@
 #Import re (Regular Expressions), os (Operating system), glob
-import re, os, glob
+import os, glob
 from article_dates_modules import split_list, precleaning, year_month_day, month_number
 
 #Find all TXT file in the PRESCRIBED1 directory
